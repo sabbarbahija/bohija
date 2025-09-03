@@ -8,3 +8,4 @@ int main(){
     v=(4.0f/3.0f)*PI*r*r*r;
     printf("le volume d'une sphère est :%f",v);
  return 0;
+  }
